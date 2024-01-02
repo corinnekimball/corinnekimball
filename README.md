@@ -1,5 +1,5 @@
-- 👋 Aloha, I’m @corinnekimball
-- 🌱 Tech Project Manager pursuing a shift into video game production
+👋 Aloha, I’m Corinne
+🌱 A Tech Project Manager pursuing a shift into video game production
 
 <!---
 corinnekimball/corinnekimball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
